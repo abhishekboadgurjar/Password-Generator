@@ -20,7 +20,6 @@ The **Password Generator** is a web-based application that allows users to gener
 - **CSS**: Styles the interface, ensuring a modern and responsive design.
 - **JavaScript**: Handles the password generation logic, including user interactions and password copying.
 
-
 ## Installation
 
 To get started with the project, follow these steps:
