@@ -26,7 +26,7 @@ To get started with the project, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/abhishekgurjar-in/Password-Generator.git
+    git clone https://github.com/abhishekboadgurjar/Password-Generator.git
     ```
 
 2. **Open the project directory**:
@@ -48,7 +48,7 @@ To get started with the project, follow these steps:
 
 ## Live Demo
 
-You can check out the live demo of the Password Generator project [here](https://abhishekgurjar-in.github.io/Password-Generator/).
+You can check out the live demo of the Password Generator project [here](https://github.com/abhishekboadgurjar.github.io/Password-Generator/).
 ## Screenshots
 ![Screenshot 2024-08-25 165733](https://github.com/user-attachments/assets/4374cac6-e141-4817-a67b-03c80b747fb9)
 
@@ -63,5 +63,5 @@ This project was developed as part of my journey to enhance my JavaScript skills
 ## Author
 
 - **Abhishek Gurjar**
-  - [GitHub Profile](https://github.com/abhishekgurjar-in)
+  - [GitHub Profile](https://github.com/abhishekboadgurjar)
 
