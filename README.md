@@ -1,4 +1,4 @@
-# Password Generator Website 
+# Password Generator Website
 
 ## Introduction
 
@@ -45,10 +45,10 @@ To get started with the project, follow these steps:
 4. **Generate a password** by clicking the "Generate Password" button.
 5. **Copy the password** to your clipboard by clicking the copy icon.
 
-
 ## Live Demo
 
-You can check out the live demo of the Password Generator project [here](https://github.com/abhishekboadgurjar.github.io/Password-Generator/).
+You can check out the live demo of the Password Generator project [here](https://abhishekboadgurjar.github.io/Password-Generator/).
+
 ## Screenshots
 ![Screenshot 2024-08-25 165733](https://github.com/user-attachments/assets/4374cac6-e141-4817-a67b-03c80b747fb9)
 
